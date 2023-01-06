@@ -3,10 +3,10 @@
 
 /**
  * main - prints the name of the program
- * @argc: This is the argument count 
- * @argv: This is the argument vector
+ * @argc: number of arguments 
+ * @argv: array of arguments
  *
- * Return: This return to 0
+ * Return: Always 0 (Success)
  */
 int main(int argc __attribute__((unused)), char *argv[])
 {
